@@ -1,0 +1,77 @@
+
+
+body{
+  background: #fcf9ed;
+  font-family: 'Karla', sans-serif;
+}
+
+h1 {
+  font-family: 'Karla', sans-serif;
+  color: #665c84;
+  font-size: 50px;
+}
+
+
+h2,h3 {
+ font-family: 'Karla', sans-serif;
+  color: #ff7657;
+  font-weight: lighter;
+    font-size: 30px;padding: 
+}
+
+
+p {
+ font-family: 'Karla', sans-serif;
+  color: #665c84;
+  font-weight: lighter;
+    font-size: 20px;}
+
+a {
+  color: #665c84;
+      font-size: 20px;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ff7657;
+  font-size: 40px;
+}
+
+body, h1, h2, a {text-align:center;}
+
+
+
+
+#banner {
+  text-align: center;
+  background-image: url("https://cdn.pixabay.com/photo/2016/11/19/17/24/desert-1840453_640.jpg");
+  background-position: center;
+  background-size: cover;
+  padding: 150px;
+  border-radius: 10px;
+
+}
+
+#banner h1 {
+  font-size: 50px;
+}
+
+
+#banner p {
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+#footer {padidng:50px;}
+
+.card {
+  padding: 50px;
+  font-weight: lighter;
+}
+
+#share-buttons {
+	background-color: #665c84;
+	border-radius: 30px;
+}
+
